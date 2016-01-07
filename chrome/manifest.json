@@ -3,6 +3,11 @@
   "version": "0.3.2",
   "description": "__MSG_appDesc__",
   "manifest_version": 2,
+  "applications": {
+    "gecko": {
+      "id": "ihatecontentfarms@bobchao.net"
+    }
+  },
   "background" : {
   	"scripts" : ["background.js"]
   },
